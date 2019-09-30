@@ -1,2 +1,2 @@
 # flask-todo
-Simple Flask ToDo Application.
+Simple Python Flask ToDo Application.
